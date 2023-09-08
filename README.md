@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, World! 👋
 
-<!--
-**MoralesG78/MoralesG78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently systems student @ Uveg.
+- 🌱 I’m currently learning Front-End @ Tecnolochicas, Github, etc.
+- 👯 I’m looking to collaborate on related projects in my area, to gain more experience.
+- 📫 How to reach me: gladism78@gmail.com  
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact: I love hiking, pets, and spend time with my family.
+  
+
+ 
