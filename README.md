@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on related projects in my area, to gain more experience.
 - 📫 How to reach me: gladism78@gmail.com  
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I love hiking, pets, and spend time with my family.
+- ⚡ Fun fact: I love hiking, pets, and spending time with my family.
 
   ## 🌀some technologies I use:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
